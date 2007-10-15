@@ -1,0 +1,1806 @@
+# Logfile created on Mon Aug 21 17:07:57 BST 2006 by logger.rb/1.5.2.7
+  [4;36;1mSQL (0.000272)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000241)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000242)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000240)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000244)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000239)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000244)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000236)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000229)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000226)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mSQL (0.000248)[0m   [0;1mPRAGMA table_info(contents)[0m
+  [4;36;1mComment Columns (0.143772)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.020150)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.069767)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 17:41:15', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 17:41:15')[0m
+  [4;35;1mSQL (0.050571)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003897)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000865)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000400)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 17:41:37', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 17:41:37')[0m
+  [4;35;1mSQL (0.000725)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003767)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.093440)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000387)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 17:54:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 17:54:17')[0m
+  [4;35;1mSQL (0.000896)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003692)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.079756)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000394)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 17:56:11', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 17:56:11')[0m
+  [4;35;1mSQL (0.000907)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.004237)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000435)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 17:58:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 17:58:47')[0m
+  [4;35;1mSQL (0.000784)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.003695)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.090634)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000391)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:09:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:09:47')[0m
+  [4;35;1mSQL (0.001021)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.003620)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000248)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000402)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:10:06', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:10:06')[0m
+  [4;35;1mSQL (0.024311)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.003631)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000271)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.044412)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:11:25', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:11:25')[0m
+  [4;35;1mSQL (0.001090)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.306917)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000363)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000379)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:11:58', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:11:58')[0m
+  [4;35;1mSQL (0.000785)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.003744)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.082616)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000368)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:12:09', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:12:09')[0m
+  [4;35;1mSQL (0.000981)[0m   [0mROLLBACK[0m
+  [4;36;1mComment Columns (0.003657)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.065587)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000377)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:13:37', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:13:37')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000965)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003696)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000373)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000419)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:14:15', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:14:15')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000795)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003735)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000249)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000372)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:17:41', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:17:41')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000714)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003693)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.101127)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.021744)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:17:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:17:47')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000774)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003654)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000300)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000370)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:17:52', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:17:52')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000770)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003890)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000938)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000387)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:18:06', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 1, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:18:06')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.021313)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003760)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000429)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000374)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:19:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:19:22')[0m
+  [4;35;1mSQL (0.000731)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003072)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000660)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000355)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:19:22', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 29, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:19:22')[0m
+Sent mail:
+ Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000666)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003667)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.088158)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000387)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:19:54', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:19:54')[0m
+  [4;35;1mSQL (0.000779)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003155)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000921)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000355)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:19:54', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 31, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:19:54')[0m
+  [4;35;1mArticle Load (0.136783)[0m   [0mSELECT * FROM contents WHERE (contents.id = 31) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000780)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003690)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000336)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000373)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:20:03', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:20:03')[0m
+  [4;35;1mSQL (0.000704)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003144)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000159)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000344)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:20:03', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 33, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:20:03')[0m
+  [4;35;1mArticle Load (0.000461)[0m   [0mSELECT * FROM contents WHERE (contents.id = 33) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000688)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003586)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.081037)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000394)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:10', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:22:10')[0m
+  [4;35;1mSQL (0.000816)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003170)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000774)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000352)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:10', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 35, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:22:10')[0m
+  [4;35;1mArticle Load (0.000501)[0m   [0mSELECT * FROM contents WHERE (contents.id = 35) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000690)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003904)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000860)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000372)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:34', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:22:34')[0m
+  [4;35;1mSQL (0.000709)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003066)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000239)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000377)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:34', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 37, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:22:34')[0m
+  [4;35;1mArticle Load (0.000417)[0m   [0mSELECT * FROM contents WHERE (contents.id = 37) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000655)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003682)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.088799)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000371)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:40', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:22:40')[0m
+  [4;35;1mSQL (0.000922)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003244)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000723)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000426)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:22:40', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 39, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:22:40')[0m
+  [4;35;1mArticle Load (0.000409)[0m   [0mSELECT * FROM contents WHERE (contents.id = 39) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000667)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003498)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000759)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000375)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:23:51', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:23:51')[0m
+  [4;35;1mSQL (0.000704)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003102)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000153)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000352)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:23:51', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 41, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:23:51')[0m
+  [4;35;1mArticle Load (0.000406)[0m   [0mSELECT * FROM contents WHERE (contents.id = 41) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000680)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003656)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000326)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000373)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:24:03', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:24:03')[0m
+  [4;35;1mSQL (0.000695)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003070)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000102)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000363)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:24:03', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 43, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:24:03')[0m
+  [4;35;1mArticle Load (0.000425)[0m   [0mSELECT * FROM contents WHERE (contents.id = 43) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000682)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003854)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.075238)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000402)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:25:49', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:25:49')[0m
+  [4;35;1mSQL (0.000838)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003198)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000590)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000352)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:25:49', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 45, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:25:49')[0m
+  [4;35;1mArticle Load (0.000478)[0m   [0mSELECT * FROM contents WHERE (contents.id = 45) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000673)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000176)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000732)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:25:49', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:25:49')[0m
+  [4;35;1mSQL (0.000614)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000083)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000347)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:25:49', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 47, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:25:49')[0m
+  [4;36;1mArticle Load (0.000423)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 47) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.028473)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003673)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.088061)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000380)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:42', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:26:42')[0m
+  [4;35;1mSQL (0.000857)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003194)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000882)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000348)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:42', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 49, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:26:42')[0m
+  [4;35;1mArticle Load (0.000405)[0m   [0mSELECT * FROM contents WHERE (contents.id = 49) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000655)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000188)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000370)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:42', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:26:42')[0m
+  [4;35;1mSQL (0.000580)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000099)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000319)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:42', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 51, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:26:42')[0m
+  [4;36;1mArticle Load (0.000413)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 51) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000659)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003849)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000256)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000380)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:54', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:26:54')[0m
+  [4;35;1mSQL (0.000718)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003020)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000256)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000363)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:54', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 53, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:26:54')[0m
+  [4;35;1mArticle Load (0.000409)[0m   [0mSELECT * FROM contents WHERE (contents.id = 53) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000751)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000198)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000651)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:54', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:26:54')[0m
+  [4;35;1mSQL (0.000690)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000080)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000317)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:26:54', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 55, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:26:54')[0m
+  [4;36;1mArticle Load (0.000417)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 55) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000637)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003632)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000327)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000378)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:01', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:27:01')[0m
+  [4;35;1mSQL (0.000666)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003093)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000145)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000357)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:01', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 57, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:27:01')[0m
+  [4;35;1mArticle Load (0.000411)[0m   [0mSELECT * FROM contents WHERE (contents.id = 57) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;36;1mSQL (0.000726)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000229)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000464)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:01', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:27:01')[0m
+  [4;35;1mSQL (0.000631)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000085)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000309)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:01', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 59, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:27:01')[0m
+  [4;36;1mArticle Load (0.000433)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 59) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+
+  [4;35;1mSQL (0.000662)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003859)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000840)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000481)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:56', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:27:56')[0m
+  [4;35;1mSQL (0.000691)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003131)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000126)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000606)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:27:56', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 61, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:27:56')[0m
+  [4;35;1mArticle Load (0.000439)[0m   [0mSELECT * FROM contents WHERE (contents.id = 61) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000768)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003774)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000157)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000379)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:04', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:04')[0m
+  [4;35;1mSQL (0.000675)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003050)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000370)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000374)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:04', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 63, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:04')[0m
+  [4;35;1mArticle Load (0.000416)[0m   [0mSELECT * FROM contents WHERE (contents.id = 63) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000729)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000185)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000454)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:04', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:04')[0m
+  [4;35;1mSQL (0.000658)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000088)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000319)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:04', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 65, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:04')[0m
+  [4;36;1mArticle Load (0.000409)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 65) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000641)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003752)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000393)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000390)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:10', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:10')[0m
+  [4;35;1mSQL (0.000768)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003121)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000124)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000349)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:10', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 67, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:10')[0m
+  [4;35;1mArticle Load (0.000405)[0m   [0mSELECT * FROM contents WHERE (contents.id = 67) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.014457)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000258)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000544)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:10', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:10')[0m
+  [4;35;1mSQL (0.000648)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000316)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:10', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 69, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:10')[0m
+  [4;36;1mArticle Load (0.000461)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 69) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000617)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003608)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.086997)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000400)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;35;1mSQL (0.000830)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003227)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000723)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000354)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 71, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;35;1mArticle Load (0.000421)[0m   [0mSELECT * FROM contents WHERE (contents.id = 71) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000695)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000187)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000723)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;35;1mSQL (0.000595)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000084)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000333)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 73, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;36;1mArticle Load (0.000409)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 73) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000581)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000162)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000360)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;36;1mSQL (0.000594)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000081)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000315)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:41', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 75, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:41')[0m
+  [4;35;1mArticle Load (0.000416)[0m   [0mSELECT * FROM contents WHERE (contents.id = 75) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000874)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003682)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000395)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000361)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:44', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:28:44')[0m
+  [4;35;1mSQL (0.000690)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003039)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000220)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000359)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:28:44', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 77, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:28:44')[0m
+  [4;35;1mArticle Load (0.000445)[0m   [0mSELECT * FROM contents WHERE (contents.id = 77) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000732)[0m   [0;1mCOMMIT[0m
+  [4;36;1mArticle Columns (0.036113)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.026788)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000411)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;35;1mSQL (0.039655)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003083)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000132)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000360)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 15, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;35;1mArticle Load (0.000406)[0m   [0mSELECT * FROM contents WHERE (contents.id = 15) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000602)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000094)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000344)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;35;1mSQL (0.000583)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000078)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000341)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 17, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;36;1mArticle Load (0.000411)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 17) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000638)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000112)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000333)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;36;1mSQL (0.000574)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000077)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000295)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 19, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;35;1mArticle Load (0.000410)[0m   [0mSELECT * FROM contents WHERE (contents.id = 19) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000641)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000109)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000413)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;35;1mSQL (0.000627)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000083)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000312)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:29:14', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 21, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:29:14')[0m
+  [4;36;1mArticle Load (0.000385)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 21) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000687)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003657)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000241)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000378)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;35;1mSQL (0.018621)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003004)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.001710)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000519)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 23, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;35;1mArticle Load (0.000641)[0m   [0mSELECT * FROM contents WHERE (contents.id = 23) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000634)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000339)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;35;1mSQL (0.000523)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000095)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000348)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 25, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;36;1mArticle Load (0.000562)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 25) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000677)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000343)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;36;1mSQL (0.000569)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000078)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000298)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 27, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;35;1mArticle Load (0.000413)[0m   [0mSELECT * FROM contents WHERE (contents.id = 27) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000606)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000110)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000418)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;35;1mSQL (0.000711)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000077)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000324)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:32:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 29, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:32:17')[0m
+  [4;36;1mArticle Load (0.000386)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 29) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000799)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003881)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.001261)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000393)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;35;1mSQL (0.000761)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003120)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000134)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000342)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 31, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;35;1mArticle Load (0.000401)[0m   [0mSELECT * FROM contents WHERE (contents.id = 31) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000659)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000369)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;35;1mSQL (0.000699)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000090)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000316)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 33, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;36;1mArticle Load (0.000418)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 33) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000640)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000371)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;36;1mSQL (0.000679)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000322)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 35, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;35;1mArticle Load (0.000416)[0m   [0mSELECT * FROM contents WHERE (contents.id = 35) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000633)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000416)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;35;1mSQL (0.000732)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000123)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000416)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:22', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 37, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:22')[0m
+  [4;36;1mArticle Load (0.000384)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 37) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000756)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003598)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000181)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000455)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;35;1mSQL (0.000967)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003118)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000353)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000341)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 39, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;35;1mArticle Load (0.000408)[0m   [0mSELECT * FROM contents WHERE (contents.id = 39) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000723)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000091)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000373)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;35;1mSQL (0.000628)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000078)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000306)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 41, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;36;1mArticle Load (0.000452)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 41) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000647)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000377)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;36;1mSQL (0.000590)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000077)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000365)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 43, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;35;1mArticle Load (0.000460)[0m   [0mSELECT * FROM contents WHERE (contents.id = 43) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.019310)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000117)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000423)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;35;1mSQL (0.000588)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000308)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:34:50', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 45, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:34:50')[0m
+  [4;36;1mArticle Load (0.000387)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 45) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000633)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003674)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000246)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000367)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:22', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:37:22')[0m
+  [4;35;1mSQL (0.000854)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003018)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000389)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000610)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 47, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;35;1mArticle Load (0.000526)[0m   [0mSELECT * FROM contents WHERE (contents.id = 47) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000800)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000489)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000427)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;35;1mSQL (0.000718)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000078)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000325)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 49, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;36;1mArticle Load (0.000400)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 49) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000700)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000110)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000339)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;36;1mSQL (0.000608)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000076)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000290)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 51, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;35;1mArticle Load (0.000465)[0m   [0mSELECT * FROM contents WHERE (contents.id = 51) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000589)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000113)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000413)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;35;1mSQL (0.000758)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000083)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000309)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:37:23', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 53, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:37:23')[0m
+  [4;36;1mArticle Load (0.000381)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 53) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000725)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003671)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000263)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000371)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;35;1mSQL (0.000742)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003007)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000222)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000457)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 55, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;35;1mArticle Load (0.000531)[0m   [0mSELECT * FROM contents WHERE (contents.id = 55) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000645)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000474)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;35;1mSQL (0.000625)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000089)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000372)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 57, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;36;1mArticle Load (0.000444)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 57) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000733)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000462)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;36;1mSQL (0.000704)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000302)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 59, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;35;1mArticle Load (0.000402)[0m   [0mSELECT * FROM contents WHERE (contents.id = 59) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000662)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000118)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000414)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;35;1mSQL (0.000770)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000103)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000308)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:17', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 61, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:17')[0m
+  [4;36;1mArticle Load (0.000388)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 61) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000716)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003731)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000202)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000375)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;35;1mSQL (0.000600)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003045)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000435)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 63, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;35;1mArticle Load (0.000515)[0m   [0mSELECT * FROM contents WHERE (contents.id = 63) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+  [4;36;1mSQL (0.122140)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000354)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;35;1mSQL (0.000595)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000293)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 65, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;36;1mArticle Load (0.000399)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 65) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+  [4;35;1mSQL (0.000660)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000092)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000320)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;36;1mSQL (0.000569)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000078)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000287)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 67, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;35;1mArticle Load (0.000383)[0m   [0mSELECT * FROM contents WHERE (contents.id = 67) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+  [4;36;1mSQL (0.000630)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000089)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000328)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;35;1mSQL (0.000541)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000115)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000368)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:38:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 69, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:38:47')[0m
+  [4;36;1mArticle Load (0.000513)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 69) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+  [4;35;1mSQL (0.000872)[0m   [0mROLLBACK[0m
+  [4;36;1mArticle Columns (0.003728)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000564)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000372)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:18', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:39:18')[0m
+  [4;35;1mSQL (0.000871)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003113)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000572)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000349)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:18', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 71, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:39:18')[0m
+  [4;35;1mArticle Load (0.000428)[0m   [0mSELECT * FROM contents WHERE (contents.id = 71) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000770)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000421)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;35;1mSQL (0.000672)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000161)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000356)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 73, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;36;1mArticle Load (0.000436)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 73) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000691)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000120)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000367)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;36;1mSQL (0.000587)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000077)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000379)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 75, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;35;1mArticle Load (0.000440)[0m   [0mSELECT * FROM contents WHERE (contents.id = 75) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000628)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000417)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;35;1mSQL (0.000709)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000078)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000309)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:39:19', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 77, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:39:19')[0m
+  [4;36;1mArticle Load (0.000385)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 77) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000708)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003625)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000724)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000369)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;35;1mSQL (0.000683)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003013)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000278)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000380)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 79, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;35;1mArticle Load (0.000479)[0m   [0mSELECT * FROM contents WHERE (contents.id = 79) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000650)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000127)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000619)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;35;1mSQL (0.000655)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000408)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 81, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;36;1mArticle Load (0.000490)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 81) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000852)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000364)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;36;1mSQL (0.012854)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000090)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000314)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 83, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;35;1mArticle Load (0.000405)[0m   [0mSELECT * FROM contents WHERE (contents.id = 83) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000654)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000113)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000416)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;35;1mSQL (0.000738)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000324)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:40:32', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 85, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:40:32')[0m
+  [4;36;1mArticle Load (0.000382)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 85) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000695)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003773)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000644)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000376)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;35;1mSQL (0.000720)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003057)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000274)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000447)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 87, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;35;1mArticle Load (0.000530)[0m   [0mSELECT * FROM contents WHERE (contents.id = 87) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000652)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000109)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000347)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;35;1mSQL (0.000583)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000080)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000404)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 89, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;36;1mArticle Load (0.000501)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 89) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000709)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000128)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000346)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;36;1mSQL (0.000650)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000091)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000326)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 91, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;35;1mArticle Load (0.000409)[0m   [0mSELECT * FROM contents WHERE (contents.id = 91) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000845)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000120)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000411)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;35;1mSQL (0.000715)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000311)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:09', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 93, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:09')[0m
+  [4;36;1mArticle Load (0.000386)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 93) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000716)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003596)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000701)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000369)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;35;1mSQL (0.000685)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003055)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.002726)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000675)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 95, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;35;1mArticle Load (0.000456)[0m   [0mSELECT * FROM contents WHERE (contents.id = 95) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.022850)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000355)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;35;1mSQL (0.000584)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000088)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000300)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 97, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;36;1mArticle Load (0.000408)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 97) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000609)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000111)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000335)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;36;1mSQL (0.000571)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000077)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000324)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 99, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;35;1mArticle Load (0.000416)[0m   [0mSELECT * FROM contents WHERE (contents.id = 99) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000601)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000139)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000420)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;35;1mSQL (0.000764)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000079)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000309)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:46:33', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 101, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:46:33')[0m
+  [4;36;1mArticle Load (0.000385)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 101) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000707)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.002898)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000536)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000311)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000717)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003085)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000290)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000368)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:05', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:50:05')[0m
+  [4;35;1mSQL (0.000663)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002834)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000099)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000343)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:05', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 103, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:50:05')[0m
+  [4;35;1mArticle Load (0.000403)[0m   [0mSELECT * FROM contents WHERE (contents.id = 103) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000629)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003028)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000385)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000293)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000715)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003056)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000595)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000515)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:12', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:50:12')[0m
+  [4;35;1mSQL (0.000738)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003103)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000136)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000365)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:12', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 105, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:50:12')[0m
+  [4;35;1mArticle Load (0.000418)[0m   [0mSELECT * FROM contents WHERE (contents.id = 105) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000645)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003236)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000914)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000307)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000707)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003092)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000600)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000358)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:37', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:50:37')[0m
+  [4;35;1mSQL (0.000588)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002962)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000214)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000347)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:37', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 107, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:50:37')[0m
+  [4;35;1mArticle Load (0.000410)[0m   [0mSELECT * FROM contents WHERE (contents.id = 107) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000662)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003099)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000936)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000288)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000703)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003019)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000439)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000370)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:40', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:50:40')[0m
+  [4;35;1mSQL (0.000618)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002993)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000128)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000358)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:50:40', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 109, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:50:40')[0m
+  [4;35;1mArticle Load (0.000401)[0m   [0mSELECT * FROM contents WHERE (contents.id = 109) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000677)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003029)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000568)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000316)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000720)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003008)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000239)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000347)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:01', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:51:01')[0m
+  [4;35;1mSQL (0.000572)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003072)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000191)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000337)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:01', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 111, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:51:01')[0m
+  [4;35;1mSite Load (0.000274)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mSQL (0.000730)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSite Columns (0.003159)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.001113)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000316)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000743)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003020)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000215)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000369)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:12', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:51:12')[0m
+  [4;35;1mSQL (0.000605)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003069)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000173)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000341)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:12', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 113, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:51:12')[0m
+  [4;35;1mSite Load (0.000279)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000374)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 113) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000731)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.002921)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000685)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000301)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.020654)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003048)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.001761)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000368)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:36', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:51:36')[0m
+  [4;35;1mSQL (0.000579)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002994)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000351)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:36', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 115, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:51:36')[0m
+  [4;35;1mSite Load (0.000278)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000361)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 115) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000619)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.003000)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000622)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000312)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000712)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000302)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Columns (0.003009)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.002026)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000381)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:51', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:51:51')[0m
+  [4;36;1mSQL (0.000689)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.003003)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000120)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000337)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:51', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 117, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:51:51')[0m
+  [4;36;1mSite Load (0.000285)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000363)[0m   [0mSELECT * FROM contents WHERE (contents.id = 117) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000690)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003038)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000678)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000293)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000709)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000300)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Columns (0.003046)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.001818)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000375)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:55', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:51:55')[0m
+  [4;36;1mSQL (0.000582)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.003145)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000126)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000382)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:51:55', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 119, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:51:55')[0m
+  [4;36;1mSite Load (0.000278)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000382)[0m   [0mSELECT * FROM contents WHERE (contents.id = 119) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000697)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003187)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.001395)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000286)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000723)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000304)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Columns (0.003630)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.001995)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000375)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:00', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:00')[0m
+  [4;36;1mSQL (0.000701)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.003017)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000375)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:00', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 121, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:00')[0m
+  [4;36;1mSite Load (0.000289)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000378)[0m   [0mSELECT * FROM contents WHERE (contents.id = 121) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000646)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003017)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000289)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000301)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000712)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003038)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000770)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000354)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:16', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:16')[0m
+  [4;35;1mSQL (0.000585)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003065)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000146)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000362)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:16', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 123, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:16')[0m
+  [4;35;1mSite Load (0.000280)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000377)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 123) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000740)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.002998)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000735)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000348)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000815)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003208)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000247)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000362)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:21', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:21')[0m
+  [4;35;1mSQL (0.000661)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002975)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000116)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000348)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:21', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 125, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:21')[0m
+  [4;35;1mSite Load (0.000279)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000407)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 125) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000719)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.003012)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000520)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000312)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000714)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000321)[0m   [0;1mSELECT * FROM sites WHERE (sites.id = 16) LIMIT 1[0m
+  [4;35;1mArticle Columns (0.003626)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.001901)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000361)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:30', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:30')[0m
+  [4;36;1mSQL (0.000615)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.002988)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000302)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000362)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:30', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 127, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:30')[0m
+  [4;36;1mSite Load (0.000288)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000389)[0m   [0mSELECT * FROM contents WHERE (contents.id = 127) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000686)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.003180)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000892)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000291)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000761)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003117)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000135)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000368)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:36', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:36')[0m
+  [4;35;1mSQL (0.000585)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002852)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000097)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000531)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:36', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 129, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:36')[0m
+  [4;35;1mSite Load (0.000276)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000401)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 129) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.013118)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Columns (0.002716)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000137)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000288)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000755)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000349)[0m   [0;1mSELECT * FROM sites WHERE (sites.id = 18) LIMIT 1[0m
+  [4;35;1mArticle Columns (0.003595)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.001872)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000374)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:40', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:40')[0m
+  [4;36;1mSQL (0.000735)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.002991)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000128)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000350)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:40', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 131, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:40')[0m
+  [4;36;1mSite Load (0.000271)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000382)[0m   [0mSELECT * FROM contents WHERE (contents.id = 131) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000667)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Columns (0.002964)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSQL (0.000564)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000353)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000671)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000253)[0m   [0;1mSELECT count(*) AS count_all FROM sites [0m
+  [4;35;1mArticle Columns (0.003134)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.001996)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000370)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:52:47')[0m
+  [4;36;1mSQL (0.000699)[0m   [0;1mCOMMIT[0m
+  [4;35;1mComment Columns (0.003023)[0m   [0mSHOW FIELDS FROM contents[0m
+  [4;36;1mSQL (0.000114)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000332)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:52:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 133, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:52:47')[0m
+  [4;36;1mSite Load (0.000290)[0m   [0;1mSELECT * FROM sites LIMIT 1[0m
+  [4;35;1mArticle Load (0.000386)[0m   [0mSELECT * FROM contents WHERE (contents.id = 133) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;36;1mSQL (0.000689)[0m   [0;1mCOMMIT[0m
+  [4;36;1mSite Load (0.000483)[0m   [0;1mSELECT * FROM sites [0m
+  [4;35;1mSQL (0.000086)[0m   [0mBEGIN[0m
+  [4;36;1mSite Columns (0.002925)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSite Destroy (0.001097)[0m   [0m DELETE FROM sites
+ WHERE id = 1
+[0m
+  [4;36;1mSQL (0.000670)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000106)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000229)[0m   [0;1m DELETE FROM sites
+ WHERE id = 2
+[0m
+  [4;35;1mSQL (0.000533)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000119)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000160)[0m   [0m DELETE FROM sites
+ WHERE id = 3
+[0m
+  [4;36;1mSQL (0.000531)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000156)[0m   [0;1m DELETE FROM sites
+ WHERE id = 4
+[0m
+  [4;35;1mSQL (0.000514)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000123)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000153)[0m   [0m DELETE FROM sites
+ WHERE id = 5
+[0m
+  [4;36;1mSQL (0.000506)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000125)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000154)[0m   [0;1m DELETE FROM sites
+ WHERE id = 6
+[0m
+  [4;35;1mSQL (0.000529)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000120)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000159)[0m   [0m DELETE FROM sites
+ WHERE id = 7
+[0m
+  [4;36;1mSQL (0.000520)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000119)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000155)[0m   [0;1m DELETE FROM sites
+ WHERE id = 8
+[0m
+  [4;35;1mSQL (0.000497)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000114)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000154)[0m   [0m DELETE FROM sites
+ WHERE id = 9
+[0m
+  [4;36;1mSQL (0.000485)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000151)[0m   [0;1m DELETE FROM sites
+ WHERE id = 10
+[0m
+  [4;35;1mSQL (0.000531)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000114)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000162)[0m   [0m DELETE FROM sites
+ WHERE id = 11
+[0m
+  [4;36;1mSQL (0.000503)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000155)[0m   [0;1m DELETE FROM sites
+ WHERE id = 12
+[0m
+  [4;35;1mSQL (0.000556)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000111)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000162)[0m   [0m DELETE FROM sites
+ WHERE id = 13
+[0m
+  [4;36;1mSQL (0.000912)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000073)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000160)[0m   [0;1m DELETE FROM sites
+ WHERE id = 14
+[0m
+  [4;35;1mSQL (0.000525)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000117)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000155)[0m   [0m DELETE FROM sites
+ WHERE id = 15
+[0m
+  [4;36;1mSQL (0.000505)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000167)[0m   [0;1m DELETE FROM sites
+ WHERE id = 16
+[0m
+  [4;35;1mSQL (0.000500)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000116)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000159)[0m   [0m DELETE FROM sites
+ WHERE id = 17
+[0m
+  [4;36;1mSQL (0.000499)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+  [4;36;1mSite Destroy (0.000211)[0m   [0;1m DELETE FROM sites
+ WHERE id = 18
+[0m
+  [4;35;1mSQL (0.000503)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000123)[0m   [0;1mBEGIN[0m
+  [4;35;1mSite Destroy (0.000169)[0m   [0m DELETE FROM sites
+ WHERE id = 19
+[0m
+  [4;36;1mSQL (0.000510)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000074)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000299)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000578)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003061)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000705)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000364)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:53:00', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 18:53:00')[0m
+  [4;35;1mSQL (0.000664)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003081)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000143)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000351)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 18:53:00', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 135, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 18:53:00')[0m
+  [4;35;1mSite Load (0.000303)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000383)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 135) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000685)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000388)[0m   [0;1mSELECT * FROM sites [0m
+  [4;35;1mSQL (0.000079)[0m   [0mBEGIN[0m
+  [4;36;1mSite Columns (0.092351)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSite Destroy (0.001023)[0m   [0m DELETE FROM sites
+ WHERE id = 20
+[0m
+  [4;36;1mSQL (0.000672)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000076)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000257)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000510)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003106)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000188)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000349)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;35;1mSQL (0.000530)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.003010)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000165)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000343)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 137, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;35;1mSite Load (0.000264)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000386)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 137) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000647)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000094)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000377)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;36;1mSQL (0.000588)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000076)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000350)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 139, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;35;1mSite Load (0.000286)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000351)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 139) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000621)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000111)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000382)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;36;1mSQL (0.027005)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000088)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000422)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 141, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;35;1mSite Load (0.000269)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000344)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 141) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000626)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000112)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000380)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;36;1mSQL (0.000601)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000076)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000304)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:35:39', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 143, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:35:39')[0m
+  [4;35;1mSite Load (0.000269)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000343)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 143) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000674)[0m   [0mCOMMIT[0m
+  [4;36;1mSite Load (0.000385)[0m   [0;1mSELECT * FROM sites [0m
+  [4;35;1mSQL (0.000077)[0m   [0mBEGIN[0m
+  [4;36;1mSite Columns (0.003079)[0m   [0;1mSHOW FIELDS FROM sites[0m
+  [4;35;1mSite Destroy (0.001615)[0m   [0m DELETE FROM sites
+ WHERE id = 21
+[0m
+  [4;36;1mSQL (0.000706)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000080)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000300)[0m   [0;1mINSERT INTO sites (`akismet_url`, `title`, `timezone`, `approve_comments`, `filter`, `subtitle`, `akismet_key`, `articles_per_page`, `host`, `comment_age`, `email`, `ping_urls`) VALUES(NULL, NULL, NULL, NULL, NULL, NULL, NULL, 15, NULL, NULL, 'contact@lukeredpath.co.uk', NULL)[0m
+  [4;35;1mSQL (0.000562)[0m   [0mCOMMIT[0m
+  [4;36;1mArticle Columns (0.003047)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.000304)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000353)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;35;1mSQL (0.000534)[0m   [0mCOMMIT[0m
+  [4;36;1mComment Columns (0.002969)[0m   [0;1mSHOW FIELDS FROM contents[0m
+  [4;35;1mSQL (0.001699)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000443)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 145, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;35;1mSite Load (0.000324)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000474)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 145) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000744)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000119)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000388)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;36;1mSQL (0.000582)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000079)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000317)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 147, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;35;1mSite Load (0.000315)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000386)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 147) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000583)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000337)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;36;1mSQL (0.000601)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000078)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000419)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 149, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;35;1mSite Load (0.000285)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000348)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 149) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000757)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000425)[0m   [0mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, 'My great post', NULL, 'Article', 0, NULL, NULL, NULL, NULL, NULL, NULL, 0, NULL, NULL, NULL, NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;36;1mSQL (0.000662)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.000079)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000351)[0m   [0;1mINSERT INTO contents (`permalink`, `body_html`, `site_id`, `updated_at`, `body`, `excerpt_html`, `title`, `author`, `type`, `approved`, `excerpt`, `filter`, `updater_id`, `version`, `article_id`, `author_email`, `comments_count`, `published_at`, `user_id`, `author_ip`, `author_url`, `comment_age`, `created_at`) VALUES(NULL, NULL, NULL, '2006-08-21 19:37:47', NULL, NULL, NULL, 'Luke Redpath', 'Comment', 0, NULL, NULL, NULL, NULL, 151, NULL, 0, NULL, NULL, '127.0.0.1', NULL, 0, '2006-08-21 19:37:47')[0m
+  [4;35;1mSite Load (0.000261)[0m   [0mSELECT * FROM sites LIMIT 1[0m
+  [4;36;1mArticle Load (0.000337)[0m   [0;1mSELECT * FROM contents WHERE (contents.id = 151) AND ( (contents.`type` = 'Article' ) ) LIMIT 1[0m
+Sent mail:
+ From: contact@lukeredpath.co.uk
+To: contact@lukeredpath.co.uk
+Subject: [Mephisto] A new comment has been posted for 'My great post'
+Content-Type: text/plain; charset=utf-8
+
+A new comment has been posted on your blog for the article 'My great post' by Luke Redpath.
+
+Commenter IP address is 127.0.0.1.
+  [4;35;1mSQL (0.000736)[0m   [0mCOMMIT[0m

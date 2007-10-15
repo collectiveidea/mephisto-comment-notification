@@ -1,0 +1,14 @@
+Mephisto Comment Notification
+=============================
+
+A small extension to the Mephisto blogging engine for those who prefer email notifications over the RSS feeds.
+
+This simple plugin hooks up an observer to the Mephisto Comment model and sends an email notification to the Site administrator each time a new comment is posted.
+
+Install the plugin as normal (use svn co instead of script/plugin as this plugin uses trunk/tags):
+
+  svn co http://opensource.agileevolved.com/svn/root/rails_plugins/mephisto_comment_notification/trunk/ vendor/plugins/mephisto_comment_notification
+
+Make sure ActionMailer is configured correctly for your server, restart your web server and off you go!
+
+Please report any problems to contact@NOSPAM@lukeredpath.co.uk.

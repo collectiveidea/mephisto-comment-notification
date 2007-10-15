@@ -7,8 +7,8 @@ This simple plugin hooks up an observer to the Mephisto Comment model and sends 
 
 Install the plugin as normal (use svn co instead of script/plugin as this plugin uses trunk/tags):
 
-  svn co http://opensource.agileevolved.com/svn/root/rails_plugins/mephisto_comment_notification/trunk/ vendor/plugins/mephisto_comment_notification
+  svn co svn://lukeredpath.co.uk/var/svn/plugins/mephisto_comment_notification/trunk vendor/plugins/mephisto_comment_notification
 
 Make sure ActionMailer is configured correctly for your server, restart your web server and off you go!
 
-Please report any problems to contact@NOSPAM@lukeredpath.co.uk.
+Please report any problems to contact@lukeredpath.co.uk.

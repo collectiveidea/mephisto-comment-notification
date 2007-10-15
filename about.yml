@@ -1,6 +1,6 @@
 author: Luke Redpath
 summary: Adds comment email notification to the Mephisto blogging engine
-homepage: http://opensource.agileevolved.com/
-plugin: http://opensource.agileevolved.com/svn/root/rails_plugins/mephisto_comment_notification/
+homepage: http://code.lukeredpath.co.uk/
+plugin: svn://lukeredpath.co.uk/var/svn/plugins/mephisto_comment_notification/trunk
 license: MIT
 version: 0.1

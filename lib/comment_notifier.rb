@@ -1,8 +1,6 @@
 class CommentNotifier < ActionMailer::Base
   include Mephisto::Liquid::UrlMethods
   
-  self.template_root = File.dirname(__FILE__) + '/views'
-  
   def comment_notification(recipient, comment)
     recipients      recipient
     from            recipient

@@ -1,5 +1,5 @@
 class CommentNotifierObserver < ActiveRecord::Observer
-  observe Comment
+  observe :comment
   
   def after_create(comment)
     send_comment_notification(comment) if comment.approved?
@@ -7,7 +7,7 @@ class CommentNotifierObserver < ActiveRecord::Observer
   
   protected
     def send_comment_notification(comment)
-      admin_email = Site.find(:first).email
+      admin_email = comment.article.site.email
       CommentNotifier.deliver_comment_notification(admin_email, comment)
     end
 end

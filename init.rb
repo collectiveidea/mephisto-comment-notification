@@ -1,3 +1,4 @@
-require 'mephisto_comment_notification'
+require 'comment_notifier'
+require 'comment_notifier_observer'
 
-ActionController::Base.send(:observer, :comment_notifier_observer)
+ActiveRecord::Base.observers << :comment_notifier_observer

@@ -1,9 +1,9 @@
-At <%= Time.now %> <%= @comment.author %> (<%= @comment.author_email %>) posted the following comment for the entry "<%= @comment.article.title %>":
+A comment has been posted on "<%= @comment.article.title %>"
 
-"<%= @comment.body %>"
+<%= @comment.body %>
 
-The commenter's IP address was <%= @comment.author_ip %>.
+Author: <%= @comment.author %> <<%= @comment.author_email %>>
+URL: <%= @comment.author_url %>
+IP: <%= @comment.author_ip %>
+Referrer: <%= @comment.referrer %>
 
----
-This notification was sent using the Mephisto Comment notification plugin by Luke Redpath.
-svn://lukeredpath.co.uk/var/svn/plugins/mephisto_comment_notification/trunk

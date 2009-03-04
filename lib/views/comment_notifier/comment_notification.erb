@@ -1,9 +1,9 @@
-A comment has been posted on "<%= @comment.article.title %>"
+A comment has been posted on "<%= @comment.article.title.untaint %>"
 
-<%= @comment.body %>
+<%= @comment.body.untaint %>
 
-Author: <%= @comment.author %> <<%= @comment.author_email %>>
-URL: <%= @comment.author_url %>
-IP: <%= @comment.author_ip %>
-Referrer: <%= @comment.referrer %>
+Author: <%= @comment.author.untaint %> <<%= @comment.author_email.untaint %>>
+URL: <%= @comment.author_url.untaint %>
+IP: <%= @comment.author_ip.untaint %>
+Referrer: <%= @comment.referrer.untaint %>
 
